@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/quangphuc789/Work/php-mail","disabled":false},"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/Users/quangphuc789/Work/php-mail","disabled":false}}}
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/DATA/work/php-mail","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/DATA/work/php-mail","disabled":false}}}
